@@ -25,7 +25,7 @@ dirmig -h
 
 ## wishlist
 
-- [ ] pluggable backend (i.e. not just asyncpg)
+- [ ] pluggable backend (i.e. not just asyncpg) -> esp sqlite
 - [ ] hashes of files
 - [ ] some kind of 'undo' approach
 - CI
